@@ -1,0 +1,27 @@
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\PersonMangement.Contacts\bin\Debug\PersonMangement.Contacts.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\PersonMangement.Contacts\bin\Debug\PersonMangement.Contacts.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\PersonMangement.Contacts\bin\Debug\DataClasses.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\PersonMangement.Contacts\bin\Debug\DataClasses.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\PersonMangement.Contacts\obj\Debug\PersonMangement.Contacts.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\PersonMangement.Contacts\obj\Debug\PersonMangement.Contacts.pdb
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\PersonMangement.Contacts\bin\Debug\PersonMangement.Contacts.dll
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\PersonMangement.Contacts\bin\Debug\PersonMangement.Contacts.pdb
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\PersonMangement.Contacts\bin\Debug\DataClasses.dll
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\PersonMangement.Contacts\bin\Debug\DataClasses.pdb
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\PersonMangement.Contacts\obj\Debug\PersonMangement.Contacts.csprojResolveAssemblyReference.cache
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\PersonMangement.Contacts\obj\Debug\PersonMangement.Contacts.dll
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\PersonMangement.Contacts\obj\Debug\PersonMangement.Contacts.pdb
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\PersonMangement.Contacts\bin\Debug\PersonMangement.Contacts.dll
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\PersonMangement.Contacts\bin\Debug\PersonMangement.Contacts.pdb
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\PersonMangement.Contacts\bin\Debug\DataClasses.dll
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\PersonMangement.Contacts\bin\Debug\DataClasses.pdb
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\PersonMangement.Contacts\obj\Debug\PersonMangement.Contacts.csprojResolveAssemblyReference.cache
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\PersonMangement.Contacts\obj\Debug\PersonMangement.Contacts.dll
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\PersonMangement.Contacts\obj\Debug\PersonMangement.Contacts.pdb
+E:\Projekte\Git\BM_MultiLayer\PersonMangement.Contacts\bin\Debug\PersonMangement.Contacts.dll
+E:\Projekte\Git\BM_MultiLayer\PersonMangement.Contacts\bin\Debug\PersonMangement.Contacts.pdb
+E:\Projekte\Git\BM_MultiLayer\PersonMangement.Contacts\bin\Debug\DataClasses.dll
+E:\Projekte\Git\BM_MultiLayer\PersonMangement.Contacts\bin\Debug\DataClasses.pdb
+E:\Projekte\Git\BM_MultiLayer\PersonMangement.Contacts\obj\Debug\PersonMangement.Contacts.csprojResolveAssemblyReference.cache
+E:\Projekte\Git\BM_MultiLayer\PersonMangement.Contacts\obj\Debug\PersonMangement.Contacts.dll
+E:\Projekte\Git\BM_MultiLayer\PersonMangement.Contacts\obj\Debug\PersonMangement.Contacts.pdb

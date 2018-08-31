@@ -1,0 +1,36 @@
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Repositories\bin\Debug\Repositories.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Repositories\bin\Debug\Repositories.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Repositories\bin\Debug\DataClasses.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Repositories\bin\Debug\DataClasses.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Repositories\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Repositories\obj\Debug\Repositories.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Repositories\obj\Debug\Repositories.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Repositories\bin\Debug\Repositories.Contracts.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Repositories\bin\Debug\Repositories.Contracts.pdb
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Repositories\bin\Debug\Repositories.dll
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Repositories\bin\Debug\Repositories.pdb
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Repositories\bin\Debug\DataClasses.dll
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Repositories\bin\Debug\Repositories.Contracts.dll
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Repositories\bin\Debug\DataClasses.pdb
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Repositories\bin\Debug\Repositories.Contracts.pdb
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Repositories\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Repositories\obj\Debug\Repositories.dll
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Repositories\obj\Debug\Repositories.pdb
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Repositories\bin\Debug\Repositories.dll
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Repositories\bin\Debug\Repositories.pdb
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Repositories\bin\Debug\DataClasses.dll
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Repositories\bin\Debug\Repositories.Contracts.dll
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Repositories\bin\Debug\DataClasses.pdb
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Repositories\bin\Debug\Repositories.Contracts.pdb
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Repositories\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Repositories\obj\Debug\Repositories.dll
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Repositories\obj\Debug\Repositories.pdb
+E:\Projekte\Git\BM_MultiLayer\Repositories\bin\Debug\Repositories.dll
+E:\Projekte\Git\BM_MultiLayer\Repositories\bin\Debug\Repositories.pdb
+E:\Projekte\Git\BM_MultiLayer\Repositories\bin\Debug\DataClasses.dll
+E:\Projekte\Git\BM_MultiLayer\Repositories\bin\Debug\Repositories.Contracts.dll
+E:\Projekte\Git\BM_MultiLayer\Repositories\bin\Debug\DataClasses.pdb
+E:\Projekte\Git\BM_MultiLayer\Repositories\bin\Debug\Repositories.Contracts.pdb
+E:\Projekte\Git\BM_MultiLayer\Repositories\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+E:\Projekte\Git\BM_MultiLayer\Repositories\obj\Debug\Repositories.dll
+E:\Projekte\Git\BM_MultiLayer\Repositories\obj\Debug\Repositories.pdb

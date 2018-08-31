@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="dd60def3-8a9b-4410-906e-6a4520b50ca9" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/LayerDesigner">
+  <layers>
+    <layer Id="0bebd7dd-fa55-4052-8240-17c855581af6" name="Implmentations">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="ff71065f-097c-49f1-865b-b2d85a56f652" direction="Forward">
+          <layerMoniker Id="cfe67d5f-1772-4ce1-9b36-b6b4ac2dfceb" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+      <references>
+        <reference Id="09cfd140-76fb-46f6-b352-4b14e72055da" name="Logging">
+          <ArtifactNode Label="Logging" Category="CodeSchema_Project" Id="(Assembly=&quot;$(PersonalUri)/Visual Studio 2013/Projects/BM_MUC_2014/BM_MultiLayer/Logging/Logging.csproj&quot;)">
+            <Category Ref="File" />
+          </ArtifactNode>
+          <ExpandedNode Id="(Assembly=Logging)" Label="Logging.dll" Category="CodeSchema_Assembly">
+            <Category Ref="FileSystem.Category.FileOfType.dll" />
+            <LinkCategory Ref="Produces" />
+            <LinkCategory Ref="Represents" />
+          </ExpandedNode>
+        </reference>
+        <reference Id="90d935c1-028b-4654-8f0c-f3285f72379e" name="Repositories">
+          <ArtifactNode Label="Repositories" Category="CodeSchema_Project" Id="(Assembly=&quot;$(PersonalUri)/Visual Studio 2013/Projects/BM_MUC_2014/BM_MultiLayer/Repositories/Repositories.csproj&quot;)">
+            <Category Ref="File" />
+          </ArtifactNode>
+          <ExpandedNode Id="(Assembly=Repositories)" Label="Repositories.dll" Category="CodeSchema_Assembly">
+            <Category Ref="FileSystem.Category.FileOfType.dll" />
+            <LinkCategory Ref="Produces" />
+            <LinkCategory Ref="Represents" />
+          </ExpandedNode>
+        </reference>
+        <reference Id="f78e9170-c38f-46cb-99bf-3e3445fae801" name="PersonManagement">
+          <ArtifactNode Label="PersonManagement" Category="CodeSchema_Project" Id="(Assembly=&quot;$(PersonalUri)/Visual Studio 2013/Projects/BM_MUC_2014/BM_MultiLayer/PersonManagement/PersonManagement.csproj&quot;)">
+            <Category Ref="File" />
+          </ArtifactNode>
+          <ExpandedNode Id="(Assembly=PersonManagement)" Label="PersonManagement.dll" Category="CodeSchema_Assembly">
+            <Category Ref="FileSystem.Category.FileOfType.dll" />
+            <LinkCategory Ref="Produces" />
+            <LinkCategory Ref="Represents" />
+          </ExpandedNode>
+        </reference>
+      </references>
+    </layer>
+    <layer Id="cfe67d5f-1772-4ce1-9b36-b6b4ac2dfceb" name="Contracts">
+      <references>
+        <reference Id="fb6b19d0-b75a-4cbf-92aa-c72ba5999ca8" name="Logging.Contracts">
+          <ArtifactNode Label="Logging.Contracts" Category="CodeSchema_Project" Id="(Assembly=&quot;$(PersonalUri)/Visual Studio 2013/Projects/BM_MUC_2014/BM_MultiLayer/Logging.Contracts/Logging.Contracts.csproj&quot;)">
+            <Category Ref="File" />
+          </ArtifactNode>
+          <ExpandedNode Id="(Assembly=Logging.Contracts)" Label="Logging.Contracts.dll" Category="CodeSchema_Assembly">
+            <Category Ref="FileSystem.Category.FileOfType.dll" />
+            <LinkCategory Ref="Produces" />
+            <LinkCategory Ref="Represents" />
+          </ExpandedNode>
+        </reference>
+        <reference Id="07f7ab9c-6236-4301-93a9-47ea015f8a4b" name="Repositories.Contracts">
+          <ArtifactNode Label="Repositories.Contracts" Category="CodeSchema_Project" Id="(Assembly=&quot;$(PersonalUri)/Visual Studio 2013/Projects/BM_MUC_2014/BM_MultiLayer/Repositories.Contracts/Repositories.Contracts.csproj&quot;)">
+            <Category Ref="File" />
+          </ArtifactNode>
+          <ExpandedNode Id="(Assembly=Repositories.Contracts)" Label="Repositories.Contracts.dll" Category="CodeSchema_Assembly">
+            <Category Ref="FileSystem.Category.FileOfType.dll" />
+            <LinkCategory Ref="Produces" />
+            <LinkCategory Ref="Represents" />
+          </ExpandedNode>
+        </reference>
+        <reference Id="f43cfae7-aa41-4dd9-9603-e112a4e105af" name="PersonMangement.Contacts">
+          <ArtifactNode Label="PersonMangement.Contacts" Category="CodeSchema_Project" Id="(Assembly=&quot;$(PersonalUri)/Visual Studio 2013/Projects/BM_MUC_2014/BM_MultiLayer/PersonMangement.Contacts/PersonMangement.Contacts.csproj&quot;)">
+            <Category Ref="File" />
+          </ArtifactNode>
+          <ExpandedNode Id="(Assembly=PersonMangement.Contacts)" Label="PersonMangement.Contacts.dll" Category="CodeSchema_Assembly">
+            <Category Ref="FileSystem.Category.FileOfType.dll" />
+            <LinkCategory Ref="Produces" />
+            <LinkCategory Ref="Represents" />
+          </ExpandedNode>
+        </reference>
+      </references>
+    </layer>
+  </layers>
+</layerModel>

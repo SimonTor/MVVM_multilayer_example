@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1)" Category="File" FilePath="$(Personal)\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\Components.layerdiagram" Label="Components.layerdiagram" />
+    <Node Id="dd60def3-8a9b-4410-906e-6a4520b50ca9" Category="Dsl.LayerModel" Dsl.DiagramPath="$(Personal)\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\Components.layerdiagram" Dsl.QualifiedName="" Label="Components" />
+    <Node Id="0bebd7dd-fa55-4052-8240-17c855581af6" Category="Dsl.Layer" Dsl.ForbiddenNamespaceDependencies="" Dsl.ForbiddenNamespace="" Dsl.RequiredNamespace="" Dsl.QualifiedName="Implmentations" Label="Implmentations" />
+    <Node Id="cfe67d5f-1772-4ce1-9b36-b6b4ac2dfceb" Category="Dsl.Layer" Dsl.ForbiddenNamespaceDependencies="" Dsl.ForbiddenNamespace="" Dsl.RequiredNamespace="" Dsl.QualifiedName="Contracts" Label="Contracts" />
+    <Node Id="09cfd140-76fb-46f6-b352-4b14e72055da" Category="Dsl.Reference" Dsl.SupportsValidation="True" Dsl.QualifiedName="Implmentations.Logging" Label="Logging" />
+    <Node Id="(@2)" />
+    <Node Id="90d935c1-028b-4654-8f0c-f3285f72379e" Category="Dsl.Reference" Dsl.SupportsValidation="True" Dsl.QualifiedName="Implmentations.Repositories" Label="Repositories" />
+    <Node Id="(@3)" />
+    <Node Id="f78e9170-c38f-46cb-99bf-3e3445fae801" Category="Dsl.Reference" Dsl.SupportsValidation="True" Dsl.QualifiedName="Implmentations.PersonManagement" Label="PersonManagement" />
+    <Node Id="(@4)" />
+    <Node Id="fb6b19d0-b75a-4cbf-92aa-c72ba5999ca8" Category="Dsl.Reference" Dsl.SupportsValidation="True" Dsl.QualifiedName="Contracts.Logging.Contracts" Label="Logging.Contracts" />
+    <Node Id="(@5)" />
+    <Node Id="07f7ab9c-6236-4301-93a9-47ea015f8a4b" Category="Dsl.Reference" Dsl.SupportsValidation="True" Dsl.QualifiedName="Contracts.Repositories.Contracts" Label="Repositories.Contracts" />
+    <Node Id="(@6)" />
+    <Node Id="f43cfae7-aa41-4dd9-9603-e112a4e105af" Category="Dsl.Reference" Dsl.SupportsValidation="True" Dsl.QualifiedName="Contracts.PersonMangement.Contacts" Label="PersonMangement.Contacts" />
+    <Node Id="(@7)" />
+  </Nodes>
+  <Links>
+    <Link Source="09cfd140-76fb-46f6-b352-4b14e72055da" Target="(@2)" Category="Produces">
+      <Category Ref="Represents" />
+    </Link>
+    <Link Source="90d935c1-028b-4654-8f0c-f3285f72379e" Target="(@3)" Category="Produces">
+      <Category Ref="Represents" />
+    </Link>
+    <Link Source="f78e9170-c38f-46cb-99bf-3e3445fae801" Target="(@4)" Category="Produces">
+      <Category Ref="Represents" />
+    </Link>
+    <Link Source="fb6b19d0-b75a-4cbf-92aa-c72ba5999ca8" Target="(@5)" Category="Produces">
+      <Category Ref="Represents" />
+    </Link>
+    <Link Source="07f7ab9c-6236-4301-93a9-47ea015f8a4b" Target="(@6)" Category="Produces">
+      <Category Ref="Represents" />
+    </Link>
+    <Link Source="f43cfae7-aa41-4dd9-9603-e112a4e105af" Target="(@7)" Category="Produces">
+      <Category Ref="Represents" />
+    </Link>
+    <Link Source="dd60def3-8a9b-4410-906e-6a4520b50ca9" Target="0bebd7dd-fa55-4052-8240-17c855581af6" Category="Dsl.LayerModelHasLayers" />
+    <Link Source="dd60def3-8a9b-4410-906e-6a4520b50ca9" Target="cfe67d5f-1772-4ce1-9b36-b6b4ac2dfceb" Category="Dsl.LayerModelHasLayers" />
+    <Link Source="0bebd7dd-fa55-4052-8240-17c855581af6" Target="09cfd140-76fb-46f6-b352-4b14e72055da" Category="Dsl.LayerHasReferences" />
+    <Link Source="0bebd7dd-fa55-4052-8240-17c855581af6" Target="90d935c1-028b-4654-8f0c-f3285f72379e" Category="Dsl.LayerHasReferences" />
+    <Link Source="0bebd7dd-fa55-4052-8240-17c855581af6" Target="f78e9170-c38f-46cb-99bf-3e3445fae801" Category="Dsl.LayerHasReferences" />
+    <Link Source="cfe67d5f-1772-4ce1-9b36-b6b4ac2dfceb" Target="fb6b19d0-b75a-4cbf-92aa-c72ba5999ca8" Category="Dsl.LayerHasReferences" />
+    <Link Source="cfe67d5f-1772-4ce1-9b36-b6b4ac2dfceb" Target="07f7ab9c-6236-4301-93a9-47ea015f8a4b" Category="Dsl.LayerHasReferences" />
+    <Link Source="cfe67d5f-1772-4ce1-9b36-b6b4ac2dfceb" Target="f43cfae7-aa41-4dd9-9603-e112a4e105af" Category="Dsl.LayerHasReferences" />
+    <Link Source="0bebd7dd-fa55-4052-8240-17c855581af6" Target="cfe67d5f-1772-4ce1-9b36-b6b4ac2dfceb" Category="Dsl.DependencyFromLayerToLayer" Dsl.Direction="Forward" />
+  </Links>
+  <Categories>
+    <Category Id="Dsl.DependencyFromLayerToLayer" Label="Dependency From Layer To Layer" CanLinkedNodesBeDataDriven="True" CanBeDataDriven="True" IncomingActionLabel="Dependency from Layers" OutgoingActionLabel="Dependency to Layers" />
+    <Category Id="Dsl.Layer" Label="Layer" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Layer" />
+    <Category Id="Dsl.LayerHasReferences" Label="Layer Has References" IsContainment="True" CanLinkedNodesBeDataDriven="True" CanBeDataDriven="True" IncomingActionLabel="Layer" OutgoingActionLabel="References" />
+    <Category Id="Dsl.LayerModel" Label="Layer Model" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Layer Model" />
+    <Category Id="Dsl.LayerModelHasLayers" Label="Layer Model Has Layers" IsContainment="True" CanLinkedNodesBeDataDriven="True" CanBeDataDriven="True" IncomingActionLabel="Layer Model" OutgoingActionLabel="Layers" />
+    <Category Id="Dsl.Reference" Label="Reference" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Reference" />
+    <Category Id="File" Label="File" CanBeDataDriven="True" NavigationActionLabel="Files" DefaultAction="Microsoft.Contains" />
+    <Category Id="Produces" Label="Produces" OutgoingActionLabel="Produces" IncomingActionLabel="Produced By" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" />
+    <Category Id="Represents" Label="Represents" OutgoingActionLabel="Represents" IncomingActionLabel="Represented By" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IsContainment="True" />
+  </Categories>
+  <Properties>
+    <Property Id="FilePath" Label="File Path" Description="File Path" DataType="System.String" />
+    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
+    <Property Id="Dsl.DiagramPath" DataType="System.String" />
+    <Property Id="Dsl.QualifiedName" DataType="System.String" />
+    <Property Id="Dsl.ForbiddenNamespaceDependencies" DataType="System.String" />
+    <Property Id="Dsl.ForbiddenNamespace" DataType="System.String" />
+    <Property Id="Dsl.RequiredNamespace" DataType="System.String" />
+    <Property Id="Dsl.SupportsValidation" DataType="System.Boolean" />
+    <Property Id="Dsl.Direction" DataType="System.String" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Assembly" ValueType="Uri" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(PersonalUri)/Visual Studio 2013/Projects/BM_MUC_2014/BM_MultiLayer/ModelingProject1/Components.layerdiagram" />
+    <Alias n="2" Uri="Assembly=Logging" />
+    <Alias n="3" Uri="Assembly=Repositories" />
+    <Alias n="4" Uri="Assembly=PersonManagement" />
+    <Alias n="5" Uri="Assembly=Logging.Contracts" />
+    <Alias n="6" Uri="Assembly=Repositories.Contracts" />
+    <Alias n="7" Uri="Assembly=PersonMangement.Contacts" />
+  </IdentifierAliases>
+  <Paths>
+    <Path Id="Personal" Value="C:\Users\David\Documents" />
+    <Path Id="PersonalUri" Value="file:///C:/Users/David/Documents" />
+  </Paths>
+</DirectedGraph>

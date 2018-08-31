@@ -1,0 +1,28 @@
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Logging\bin\Debug\Logging.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Logging\bin\Debug\Logging.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Logging\bin\Debug\Logging.Contracts.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Logging\bin\Debug\Logging.Contracts.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Logging\obj\Debug\Logging.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Logging\obj\Debug\Logging.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Logging\obj\Debug\Logging.pdb
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Logging\bin\Debug\Logging.dll
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Logging\bin\Debug\Logging.pdb
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Logging\bin\Debug\Logging.Contracts.dll
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Logging\bin\Debug\Logging.Contracts.pdb
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Logging\obj\Debug\Logging.csprojResolveAssemblyReference.cache
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Logging\obj\Debug\Logging.dll
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Logging\obj\Debug\Logging.pdb
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Logging\bin\Debug\Logging.dll
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Logging\bin\Debug\Logging.pdb
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Logging\bin\Debug\Logging.Contracts.dll
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Logging\bin\Debug\Logging.Contracts.pdb
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Logging\obj\Debug\Logging.csprojResolveAssemblyReference.cache
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Logging\obj\Debug\Logging.dll
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\Logging\obj\Debug\Logging.pdb
+E:\Projekte\Git\BM_MultiLayer\Logging\bin\Debug\Logging.dll
+E:\Projekte\Git\BM_MultiLayer\Logging\bin\Debug\Logging.pdb
+E:\Projekte\Git\BM_MultiLayer\Logging\bin\Debug\Logging.Contracts.dll
+E:\Projekte\Git\BM_MultiLayer\Logging\bin\Debug\Logging.Contracts.pdb
+E:\Projekte\Git\BM_MultiLayer\Logging\obj\Debug\Logging.csprojResolveAssemblyReference.cache
+E:\Projekte\Git\BM_MultiLayer\Logging\obj\Debug\Logging.dll
+E:\Projekte\Git\BM_MultiLayer\Logging\obj\Debug\Logging.pdb

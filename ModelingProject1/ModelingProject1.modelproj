@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{d90575dd-7e76-408c-9b4a-d46e110b77da}</ProjectGuid>
+    <ArchitectureToolsVersion>2.0.0.0</ArchitectureToolsVersion>
+    <Name>ModelingProject1</Name>
+    <RootNamespace>ModelingProject1</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(VSToolsPath)\ArchitectureTools\Microsoft.VisualStudio.TeamArchitect.ModelingProject.targets" Condition="'$(VSToolsPath)' != ''" />
+  <ItemGroup>
+    <Folder Include="ModelDefinition\" />
+    <Content Include="ModelDefinition\ModelingProject1.uml">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Validate Include="Components.layerdiagram">
+      <SubType>Content</SubType>
+    </Validate>
+    <Validate Include="Components.layerdiagram.layout">
+      <SubType>Content</SubType>
+      <DependentUpon>Components.layerdiagram</DependentUpon>
+    </Validate>
+    <Validate Include="Components.layerdiagram.suppressions">
+      <SubType>Content</SubType>
+      <DependentUpon>Components.layerdiagram</DependentUpon>
+    </Validate>
+    <Validate Include="MutiLayer.layerdiagram">
+      <SubType>Content</SubType>
+    </Validate>
+    <Validate Include="MutiLayer.layerdiagram.layout">
+      <SubType>Content</SubType>
+      <DependentUpon>MutiLayer.layerdiagram</DependentUpon>
+    </Validate>
+    <Validate Include="MutiLayer.layerdiagram.suppressions">
+      <SubType>Content</SubType>
+      <DependentUpon>MutiLayer.layerdiagram</DependentUpon>
+    </Validate>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Client\Client.csproj">
+      <Name>Client</Name>
+      <Project>{5a56f1d6-3a9e-4916-a6a5-3d9dedd93bad}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\DataClasses\DataClasses.csproj">
+      <Name>DataClasses</Name>
+      <Project>{8f284714-8928-41fc-807a-fefff12b9171}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\Logging.Contracts\Logging.Contracts.csproj">
+      <Name>Logging.Contracts</Name>
+      <Project>{6d1944ce-a8b1-4540-b35a-14b416d9ae3d}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\Logging\Logging.csproj">
+      <Name>Logging</Name>
+      <Project>{ab2709b1-0b4f-47ae-9fb4-10f9e13d1fea}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\PersonManagement\PersonManagement.csproj">
+      <Name>PersonManagement</Name>
+      <Project>{0f85de3b-7a33-4b47-9c01-02c6cd4046a2}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\PersonMangement.Contacts\PersonMangement.Contacts.csproj">
+      <Name>PersonMangement.Contacts</Name>
+      <Project>{d942d146-ca0a-4b29-975b-c8e0d8590130}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\Repositories.Contracts\Repositories.Contracts.csproj">
+      <Name>Repositories.Contracts</Name>
+      <Project>{d64107b9-fd99-48a2-8821-812658a8ec6b}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\Repositories\Repositories.csproj">
+      <Name>Repositories</Name>
+      <Project>{2c261676-c575-4293-9c3a-1b4c85bc88b3}</Project>
+    </ProjectReference>
+  </ItemGroup>
+</Project>

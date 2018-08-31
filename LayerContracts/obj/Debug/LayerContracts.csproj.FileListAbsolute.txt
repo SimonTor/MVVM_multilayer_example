@@ -1,0 +1,7 @@
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\LayerContracts\bin\Debug\LayerContracts.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\LayerContracts\bin\Debug\LayerContracts.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\LayerContracts\bin\Debug\DataClasses.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\LayerContracts\bin\Debug\DataClasses.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\LayerContracts\obj\Debug\LayerContracts.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\LayerContracts\obj\Debug\LayerContracts.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\LayerContracts\obj\Debug\LayerContracts.pdb

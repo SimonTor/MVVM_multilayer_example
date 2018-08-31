@@ -1,0 +1,68 @@
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\bin\Debug\Client.exe
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\bin\Debug\DataClasses.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\bin\Debug\PersonManagement.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\bin\Debug\Repositories.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\bin\Debug\DataClasses.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\bin\Debug\PersonManagement.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\bin\Debug\Repositories.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\obj\Debug\ModelingProject1.modelprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\bin\Debug\ModelingProject1.Results.dgml
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\bin\Debug\Logging.Contracts.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\bin\Debug\Logging.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\bin\Debug\PersonMangement.Contacts.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\bin\Debug\Repositories.Contracts.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\bin\Debug\Ninject.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\bin\Debug\DepenendencyInjection.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\bin\Debug\Client.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\bin\Debug\Logging.Contracts.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\bin\Debug\Logging.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\bin\Debug\PersonMangement.Contacts.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\bin\Debug\Repositories.Contracts.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\bin\Debug\Ninject.xml
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\bin\Debug\DepenendencyInjection.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\obj\Debug\Components.layerdiagram.dgql
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\obj\Debug\MutiLayer.layerdiagram.dgql
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\obj\Debug\Components.layerdiagram.dgml
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\obj\Debug\MutiLayer.layerdiagram.dgml
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\obj\Debug\Initial.dgml
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\obj\Debug\Initial.dgml.back
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\obj\Debug\Client.exe.dgql
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\obj\Debug\DataClasses.dll.dgql
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\obj\Debug\Logging.Contracts.dll.dgql
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\obj\Debug\Logging.dll.dgql
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\obj\Debug\PersonManagement.dll.dgql
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\obj\Debug\PersonMangement.Contacts.dll.dgql
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\obj\Debug\Repositories.Contracts.dll.dgql
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\obj\Debug\Repositories.dll.dgql
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\obj\Debug\Client.exe.dgml
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\obj\Debug\DataClasses.dll.dgml
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\obj\Debug\Logging.Contracts.dll.dgml
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\obj\Debug\Logging.dll.dgml
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\obj\Debug\PersonManagement.dll.dgml
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\obj\Debug\PersonMangement.Contacts.dll.dgml
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\obj\Debug\Repositories.Contracts.dll.dgml
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\obj\Debug\Repositories.dll.dgml
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\obj\Debug\Validate.dgql
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\obj\Debug\Validated.dgml
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\ModelingProject1\bin\Debug\Client.exe
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\ModelingProject1\bin\Debug\DataClasses.dll
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\ModelingProject1\bin\Debug\Logging.Contracts.dll
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\ModelingProject1\bin\Debug\Logging.dll
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\ModelingProject1\bin\Debug\PersonManagement.dll
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\ModelingProject1\bin\Debug\PersonMangement.Contacts.dll
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\ModelingProject1\bin\Debug\Repositories.Contracts.dll
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\ModelingProject1\bin\Debug\Repositories.dll
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\ModelingProject1\bin\Debug\Ninject.dll
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\ModelingProject1\bin\Debug\DepenendencyInjection.dll
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\ModelingProject1\bin\Debug\Client.pdb
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\ModelingProject1\bin\Debug\DataClasses.pdb
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\ModelingProject1\bin\Debug\Logging.Contracts.pdb
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\ModelingProject1\bin\Debug\Logging.pdb
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\ModelingProject1\bin\Debug\PersonManagement.pdb
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\ModelingProject1\bin\Debug\PersonMangement.Contacts.pdb
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\ModelingProject1\bin\Debug\Repositories.Contracts.pdb
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\ModelingProject1\bin\Debug\Repositories.pdb
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\ModelingProject1\bin\Debug\Ninject.pdb
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\ModelingProject1\bin\Debug\Ninject.xml
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\ModelingProject1\bin\Debug\DepenendencyInjection.pdb
+C:\Entwicklungsumgebungen\Visual Studio C# 2013 Ultimate\Projects\Workshop - B&M - WPF mit MVVM\VS Projekte\BM_MultiLayer\ModelingProject1\obj\Debug\ModelingProject1.modelprojResolveAssemblyReference.cache

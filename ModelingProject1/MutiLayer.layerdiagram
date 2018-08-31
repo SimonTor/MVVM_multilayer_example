@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="a5c9da54-b81e-41a0-bc44-d46c71fbb8ef" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/LayerDesigner">
+  <layers>
+    <layer Id="dcbe6388-7f83-40f2-ab8d-ca0df9061f79" name="UI">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="d20dad80-51d0-456e-9224-5854cae050e8" direction="Forward">
+          <layerMoniker Id="099eb69a-f817-4d97-adaa-bdbd49775e8b" />
+        </dependencyFromLayerToLayer>
+        <dependencyFromLayerToLayer Id="c8e9e4b4-5057-428e-89f0-a55d53bf5f3c" direction="Forward">
+          <layerMoniker Id="91f799a2-d0a0-4847-86d0-91cf7cd542d7" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+      <references>
+        <reference Id="bb67c4cc-bfe1-49d7-858f-a40cb46fd0df" name="UI">
+          <ArtifactNode Label="UI" Category="CodeSchema_Project" Id="(Assembly=&quot;$(PersonalUri)/Visual Studio 2013/Projects/BM_MUC_2014/BM_MultiLayer/UI&quot;)">
+            <Category Ref="SolutionFolder" />
+          </ArtifactNode>
+          <ExpandedNode Id="(Assembly=Client)" Label="Client.exe" Category="CodeSchema_Assembly">
+            <Category Ref="FileSystem.Category.FileOfType.exe" />
+            <LinkCategory Ref="Represents" />
+          </ExpandedNode>
+        </reference>
+      </references>
+    </layer>
+    <layer Id="432ba63c-86fa-42dd-accf-93aa69526c1c" name="Data">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="df48f13b-1e07-401e-acd6-22c28b8ff89c" direction="Forward">
+          <layerMoniker Id="099eb69a-f817-4d97-adaa-bdbd49775e8b" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+      <references>
+        <reference Id="8f6bc911-b3ca-453a-95a4-793862efb3c1" name="Data">
+          <ArtifactNode Label="Data" Category="CodeSchema_Project" Id="(Assembly=&quot;$(PersonalUri)/Visual Studio 2013/Projects/BM_MUC_2014/BM_MultiLayer/Data&quot;)">
+            <Category Ref="SolutionFolder" />
+          </ArtifactNode>
+          <ExpandedNode Id="(Assembly=Repositories)" Label="Repositories.dll" Category="CodeSchema_Assembly">
+            <Category Ref="FileSystem.Category.FileOfType.dll" />
+            <LinkCategory Ref="Represents" />
+          </ExpandedNode>
+        </reference>
+      </references>
+    </layer>
+    <layer Id="68fb8d16-94c7-4c44-a5f0-41e61068f143" name="Logic">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="8d359692-48ad-4795-8c3f-d4227e550450" direction="Forward">
+          <layerMoniker Id="099eb69a-f817-4d97-adaa-bdbd49775e8b" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+      <references>
+        <reference Id="94a5b496-4ba5-4131-a280-9a56d38dbf92" name="Logic">
+          <ArtifactNode Label="Logic" Category="CodeSchema_Project" Id="(Assembly=&quot;$(PersonalUri)/Visual Studio 2013/Projects/BM_MUC_2014/BM_MultiLayer/Logic&quot;)">
+            <Category Ref="SolutionFolder" />
+          </ArtifactNode>
+          <ExpandedNode Id="(Assembly=PersonManagement)" Label="PersonManagement.dll" Category="CodeSchema_Assembly">
+            <Category Ref="FileSystem.Category.FileOfType.dll" />
+            <LinkCategory Ref="Represents" />
+          </ExpandedNode>
+        </reference>
+      </references>
+    </layer>
+    <layer Id="099eb69a-f817-4d97-adaa-bdbd49775e8b" name="CrossCutting">
+      <references>
+        <reference Id="a728cf85-fb67-45a5-a719-5968f1df0ee1" name="CrossCutting">
+          <ArtifactNode Label="CrossCutting" Category="CodeSchema_Project" Id="(Assembly=&quot;$(PersonalUri)/Visual Studio 2013/Projects/BM_MUC_2014/BM_MultiLayer/CrossCutting&quot;)">
+            <Category Ref="SolutionFolder" />
+          </ArtifactNode>
+          <ExpandedNode Id="(Assembly=DataClasses)" Label="DataClasses.dll" Category="CodeSchema_Assembly">
+            <Category Ref="FileSystem.Category.FileOfType.dll" />
+            <LinkCategory Ref="Represents" />
+          </ExpandedNode>
+          <ExpandedNode Id="(Assembly=LayerContracts)" Label="LayerContracts.dll" Category="CodeSchema_Assembly">
+            <LinkCategory Ref="Represents" />
+          </ExpandedNode>
+        </reference>
+      </references>
+    </layer>
+    <layer Id="91f799a2-d0a0-4847-86d0-91cf7cd542d7" name="Dependency&#xD;&#xA;Injection">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="8896db13-5061-41bd-94ae-736b9eec8bc6" direction="Forward">
+          <layerMoniker Id="68fb8d16-94c7-4c44-a5f0-41e61068f143" />
+        </dependencyFromLayerToLayer>
+        <dependencyFromLayerToLayer Id="0cc03d65-c47f-455f-9072-465062d8e781" direction="Forward">
+          <layerMoniker Id="432ba63c-86fa-42dd-accf-93aa69526c1c" />
+        </dependencyFromLayerToLayer>
+        <dependencyFromLayerToLayer Id="6414e727-e00b-49cd-9cc3-375ca7b767b6" direction="Forward">
+          <layerMoniker Id="099eb69a-f817-4d97-adaa-bdbd49775e8b" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+    </layer>
+  </layers>
+</layerModel>

@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1)" Category="CodeSchema_Assembly" FilePath="$(5a56f1d6-3a9e-4916-a6a5-3d9dedd93bad.OutputPath)" Label="C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Client\bin\Debug\Client.exe">
+      <Category Ref="FileSystem.Category.FileOfType.exe" />
+    </Node>
+    <Node Id="(@2)" Category="CodeSchema_Assembly" FilePath="$(ab2709b1-0b4f-47ae-9fb4-10f9e13d1fea.OutputPath)" Label="C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Logging\bin\Debug\Logging.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@3)" Category="CodeSchema_Assembly" FilePath="$(2c261676-c575-4293-9c3a-1b4c85bc88b3.OutputPath)" Label="C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Repositories\bin\Debug\Repositories.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@5" Category="CodeSchema_Assembly" FilePath="$(8f284714-8928-41fc-807a-fefff12b9171.OutputPath)" Label="C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\DataClasses\bin\Debug\DataClasses.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@6)" Category="CodeSchema_Assembly" FilePath="$(6d1944ce-a8b1-4540-b35a-14b416d9ae3d.OutputPath)" Label="C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Logging.Contracts\bin\Debug\Logging.Contracts.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@7)" Category="CodeSchema_Assembly" FilePath="$(d64107b9-fd99-48a2-8821-812658a8ec6b.OutputPath)" Label="C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Repositories.Contracts\bin\Debug\Repositories.Contracts.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@9" Category="CodeSchema_Assembly" CodeSchemaProperty_StrongName="PersonMangement.Contacts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" FilePath="$(d942d146-ca0a-4b29-975b-c8e0d8590130.OutputPath)" Label="PersonMangement.Contacts.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@10)" Category="CodeSchema_Assembly" FilePath="$(0f85de3b-7a33-4b47-9c01-02c6cd4046a2.OutputPath)" Label="C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\PersonManagement\bin\Debug\PersonManagement.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@11)" ConfigurationName="Debug|AnyCPU" FilePath="$(VsSolution)\Logging\Logging.csproj" Label="C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Logging\Logging.csproj" />
+    <Node Id="(@12)" ConfigurationName="Debug|AnyCPU" FilePath="$(VsSolution)\Repositories\Repositories.csproj" Label="C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Repositories\Repositories.csproj" />
+    <Node Id="(@13)" ConfigurationName="Debug|AnyCPU" FilePath="$(VsSolution)\DataClasses\DataClasses.csproj" Label="C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\DataClasses\DataClasses.csproj" />
+    <Node Id="(@14)" ConfigurationName="Debug|AnyCPU" FilePath="$(VsSolution)\Logging.Contracts\Logging.Contracts.csproj" Label="C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Logging.Contracts\Logging.Contracts.csproj" />
+    <Node Id="(@15)" ConfigurationName="Debug|AnyCPU" FilePath="$(VsSolution)\Repositories.Contracts\Repositories.Contracts.csproj" Label="C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Repositories.Contracts\Repositories.Contracts.csproj" />
+    <Node Id="(@16)" ConfigurationName="Debug|AnyCPU" FilePath="$(VsSolution)\PersonMangement.Contacts\PersonMangement.Contacts.csproj" Label="C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\PersonMangement.Contacts\PersonMangement.Contacts.csproj" />
+    <Node Id="(@17)" ConfigurationName="Debug|AnyCPU" FilePath="$(VsSolution)\Client\Client.csproj" Label="C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Client\Client.csproj" />
+    <Node Id="(@18)" ConfigurationName="Debug|AnyCPU" FilePath="$(VsSolution)\PersonManagement\PersonManagement.csproj" Label="C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\PersonManagement\PersonManagement.csproj" />
+    <Node Id="@20" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Label="mscorlib.dll" />
+    <Node Id="@5" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="DataClasses, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Label="DataClasses.dll" />
+    <Node Id="@22" Category="CodeSchema_Type" CodeSchemaProperty_IsPublic="True" Label="IPersonManager" />
+    <Node Id="@23" Category="CodeSchema_Namespace" Label="BM" />
+    <Node Id="@24" Category="CodeSchema_Namespace" Label="BM.MultiLayer" />
+    <Node Id="@25" Category="CodeSchema_Namespace" Label="BM.MultiLayer.Logic" />
+    <Node Id="@26" Category="CodeSchema_Namespace" Label="BM.MultiLayer.Logic.PersonMangement" />
+    <Node Id="@27" Category="CodeSchema_Namespace" Label="BM.MultiLayer.Logic.PersonMangement.Contacts" />
+    <Node Id="@28" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="GetAll" />
+    <Node Id="@30" CodeSchemaProperty_IsGenericInstance="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsExternal="True" Label="IEnumerable‎&lt;Person‎&gt;" />
+    <Node Id="@31" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsExternal="True" Label="IEnumerable‎&lt;T‎&gt;" />
+    <Node Id="@32" Category="CodeSchema_Namespace" CodeSchemaProperty_IsExternal="True" Label="System" />
+    <Node Id="@33" Category="CodeSchema_Namespace" CodeSchemaProperty_IsExternal="True" Label="System.Collections" />
+    <Node Id="@34" Category="CodeSchema_Namespace" CodeSchemaProperty_IsExternal="True" Label="System.Collections.Generic" />
+    <Node Id="@29" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsExternal="True" Label="Person" />
+    <Node Id="@35" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="GetAllAdults" />
+    <Node Id="@36" Category="CodeSchema_Namespace" CodeSchemaProperty_IsExternal="True" Label="DM" />
+    <Node Id="@37" Category="CodeSchema_Namespace" CodeSchemaProperty_IsExternal="True" Label="DM.MultiLayer" />
+    <Node Id="@38" Category="CodeSchema_Namespace" CodeSchemaProperty_IsExternal="True" Label="DM.MultiLayer.Data" />
+    <Node Id="@39" Category="CodeSchema_Namespace" CodeSchemaProperty_IsExternal="True" Label="DM.MultiLayer.Data.Repositories" />
+  </Nodes>
+  <Links>
+    <Link Source="(@11)" Target="(@2)" Category="Produces" />
+    <Link Source="(@12)" Target="(@3)" Category="Produces" />
+    <Link Source="(@13)" Target="@5" Category="Produces" />
+    <Link Source="(@14)" Target="(@6)" Category="Produces" />
+    <Link Source="(@15)" Target="(@7)" Category="Produces" />
+    <Link Source="(@16)" Target="@9" Category="Produces" />
+    <Link Source="(@17)" Target="(@1)" Category="Produces" />
+    <Link Source="(@18)" Target="(@10)" Category="Produces" />
+    <Link Source="@9" Target="@20" Category="References" />
+    <Link Source="@9" Target="@5" Category="References" />
+    <Link Source="@9" Target="@23" Category="CodeSchema_NamespaceReference" />
+    <Link Source="@23" Target="@24" Category="Contains" />
+    <Link Source="@9" Target="@24" Category="CodeSchema_NamespaceReference" />
+    <Link Source="@24" Target="@25" Category="Contains" />
+    <Link Source="@9" Target="@25" Category="CodeSchema_NamespaceReference" />
+    <Link Source="@25" Target="@26" Category="Contains" />
+    <Link Source="@9" Target="@26" Category="CodeSchema_NamespaceReference" />
+    <Link Source="@26" Target="@27" Category="Contains" />
+    <Link Source="@9" Target="@27" Category="CodeSchema_NamespaceReference" />
+    <Link Source="@27" Target="@22" Category="Contains" />
+    <Link Source="@9" Target="@22" Category="Contains" />
+    <Link Source="@22" Target="@28" Category="Contains" />
+    <Link Source="@20" Target="@32" Category="CodeSchema_NamespaceReference" />
+    <Link Source="@32" Target="@33" Category="Contains" />
+    <Link Source="@20" Target="@33" Category="CodeSchema_NamespaceReference" />
+    <Link Source="@33" Target="@34" Category="Contains" />
+    <Link Source="@20" Target="@34" Category="CodeSchema_NamespaceReference" />
+    <Link Source="@34" Target="@31" Category="Contains" />
+    <Link Source="@20" Target="@31" Category="Contains" />
+    <Link Source="@30" Target="@29" Category="CodeSchema_GenericParameterLink" />
+    <Link Source="@28" Target="@30" Category="CodeSchema_ReturnTypeLink" />
+    <Link Source="@22" Target="@35" Category="Contains" />
+    <Link Source="@35" Target="@30" Category="CodeSchema_ReturnTypeLink" />
+    <Link Source="@5" Target="@36" Category="CodeSchema_NamespaceReference" />
+    <Link Source="@36" Target="@37" Category="Contains" />
+    <Link Source="@5" Target="@37" Category="CodeSchema_NamespaceReference" />
+    <Link Source="@37" Target="@38" Category="Contains" />
+    <Link Source="@5" Target="@38" Category="CodeSchema_NamespaceReference" />
+    <Link Source="@38" Target="@39" Category="Contains" />
+    <Link Source="@5" Target="@39" Category="CodeSchema_NamespaceReference" />
+    <Link Source="@39" Target="@29" Category="Contains" />
+    <Link Source="@5" Target="@29" Category="Contains" />
+    <Link Source="@28" Target="@29" Category="ReferencesGenericParameter" />
+    <Link Source="@35" Target="@29" Category="ReferencesGenericParameter" />
+    <Link Source="@28" Target="@31" Category="ReferencesGenericType" />
+    <Link Source="@35" Target="@31" Category="ReferencesGenericType" />
+  </Links>
+  <Categories>
+    <Category Id="CodeSchema_Assembly" Label="Assembly" BasedOn="File" NavigationActionLabel="Assemblies" Icon="CodeSchema_Assembly" DefaultAction="Microsoft.Contains" CanBeDataDriven="True" />
+    <Category Id="CodeSchema_GenericParameterLink" Label="Generic Parameter" CanLinkedNodesBeDataDriven="True" CanBeDataDriven="True" IncomingActionLabel="Generic Parameters" OutgoingActionLabel="Generic Parameters" />
+    <Category Id="CodeSchema_Member" Label="Member" CanBeDataDriven="True" NavigationActionLabel="Members" DefaultAction="Microsoft.Contains" />
+    <Category Id="CodeSchema_Method" Label="Method" BasedOn="CodeSchema_Member" CanBeDataDriven="True" NavigationActionLabel="Methods" DefaultAction="Link:Forward:CodeSchema_Calls" />
+    <Category Id="CodeSchema_Namespace" Label="Namespace" CanBeDataDriven="True" NavigationActionLabel="Namespaces" DefaultAction="Node:Both:CodeSchema_Type" />
+    <Category Id="CodeSchema_NamespaceReference" Label="Namespace Reference" CanLinkedNodesBeDataDriven="True" CanBeDataDriven="True" IncomingActionLabel="Namespace Reference Source" OutgoingActionLabel="Referenced Namespaces" />
+    <Category Id="CodeSchema_ReturnTypeLink" Label="Return" CanLinkedNodesBeDataDriven="True" CanBeDataDriven="True" IncomingActionLabel="Return types" OutgoingActionLabel="Return types" />
+    <Category Id="CodeSchema_Type" Label="Type" CanBeDataDriven="True" NavigationActionLabel="Types" DefaultAction="Node:Both:CodeSchema_Member" />
+    <Category Id="Contains" Label="Contains" Description="Whether the source of the link contains the target object" IsContainment="True" IncomingActionLabel="Contained By" OutgoingActionLabel="Contains" CanLinkedNodesBeDataDriven="True" CanBeDataDriven="False" />
+    <Category Id="File" Label="File" NavigationActionLabel="Files" Icon="File" DefaultAction="Microsoft.Contains" CanBeDataDriven="True" />
+    <Category Id="FileSystem.Category.FileOfType.dll" BasedOn="CodeSchema_Assembly" IsProviderRoot="False" CanBeDataDriven="True" />
+    <Category Id="FileSystem.Category.FileOfType.exe" BasedOn="CodeSchema_Assembly" IsProviderRoot="False" CanBeDataDriven="True" />
+    <Category Id="Produces" Label="Produces" CanLinkedNodesBeDataDriven="True" CanBeDataDriven="True" IncomingActionLabel="Produced By" OutgoingActionLabel="Produces" />
+    <Category Id="References" Label="References" CanLinkedNodesBeDataDriven="True" CanBeDataDriven="True" IncomingActionLabel="Referenced By" OutgoingActionLabel="References" />
+    <Category Id="ReferencesGenericParameter" Label="References Generic Parameter" CanLinkedNodesBeDataDriven="True" CanBeDataDriven="True" IncomingActionLabel="Referenced As Generic Parameter By" OutgoingActionLabel="References Generic Parameter" />
+    <Category Id="ReferencesGenericType" Label="References Generic" CanLinkedNodesBeDataDriven="True" CanBeDataDriven="True" IncomingActionLabel="Generic Type Referenced By" OutgoingActionLabel="References Generic" />
+  </Categories>
+  <Properties>
+    <Property Id="FilePath" Label="File Path" Description="File Path" DataType="System.String" />
+    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
+    <Property Id="CodeSchemaProperty_StrongName" Label="StrongName" Description="StrongName" DataType="System.String" />
+    <Property Id="ConfigurationName" Label="ConfigurationName" Description="ConfigurationName" DataType="System.String" />
+    <Property Id="CodeSchemaProperty_IsExternal" Label="Is External" Description="Flag indicating whether this node is considered external" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPublic" Label="Is Public" Description="Flag to indicate the scope is Public" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsGenericInstance" Label="Is Runtime Generated" Description="Flag to indicate the object is created during runtime" DataType="System.Boolean" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="Icon" Label="Icon" Description="Icon" DataType="System.String" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Assembly" ValueType="Uri" />
+    <Name Id="Namespace" Label="Namespace" ValueType="System.String" />
+    <Name Id="Type" Label="Type" ValueType="System.Object" />
+    <Name Id="Member" Label="Member" ValueType="System.Object" />
+    <Name Id="Name" Label="Name" ValueType="System.String" />
+    <Name Id="GenericParameterCount" Label="Generic Parameter Count" ValueType="System.String" />
+    <Name Id="GenericArguments" Label="Generic Arguments" ValueType="Microsoft.VisualStudio.GraphModel.GraphNodeIdCollection" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=Client" />
+    <Alias n="2" Uri="Assembly=Logging" />
+    <Alias n="3" Uri="Assembly=Repositories" />
+    <Alias n="4" Uri="Assembly=DataClasses" />
+    <Alias n="5" Id="(@4)" />
+    <Alias n="6" Uri="Assembly=Logging.Contracts" />
+    <Alias n="7" Uri="Assembly=Repositories.Contracts" />
+    <Alias n="8" Uri="Assembly=PersonMangement.Contacts" />
+    <Alias n="9" Id="(@8)" />
+    <Alias n="10" Uri="Assembly=PersonManagement" />
+    <Alias n="11" Uri="Assembly=$(VsSolutionUri)/Logging/Logging.csproj" />
+    <Alias n="12" Uri="Assembly=$(VsSolutionUri)/Repositories/Repositories.csproj" />
+    <Alias n="13" Uri="Assembly=$(VsSolutionUri)/DataClasses/DataClasses.csproj" />
+    <Alias n="14" Uri="Assembly=$(VsSolutionUri)/Logging.Contracts/Logging.Contracts.csproj" />
+    <Alias n="15" Uri="Assembly=$(VsSolutionUri)/Repositories.Contracts/Repositories.Contracts.csproj" />
+    <Alias n="16" Uri="Assembly=$(VsSolutionUri)/PersonMangement.Contacts/PersonMangement.Contacts.csproj" />
+    <Alias n="17" Uri="Assembly=$(VsSolutionUri)/Client/Client.csproj" />
+    <Alias n="18" Uri="Assembly=$(VsSolutionUri)/PersonManagement/PersonManagement.csproj" />
+    <Alias n="19" Uri="Assembly=mscorlib" />
+    <Alias n="20" Id="(@19)" />
+    <Alias n="21" Id="Namespace=BM.MultiLayer.Logic.PersonMangement.Contacts" />
+    <Alias n="22" Id="(@8 @21 Type=IPersonManager)" />
+    <Alias n="23" Id="(Namespace=BM)" />
+    <Alias n="24" Id="(Namespace=BM.MultiLayer)" />
+    <Alias n="25" Id="(Namespace=BM.MultiLayer.Logic)" />
+    <Alias n="26" Id="(Namespace=BM.MultiLayer.Logic.PersonMangement)" />
+    <Alias n="27" Id="(@21)" />
+    <Alias n="28" Id="(@8 @21 Type=IPersonManager Member=GetAll)" />
+    <Alias n="29" Id="(@4 Namespace=DM.MultiLayer.Data.Repositories Type=Person)" />
+    <Alias n="30" Id="(@19 Namespace=System.Collections.Generic Type=(Name=IEnumerable GenericParameterCount=1 GenericArguments=[@29]))" />
+    <Alias n="31" Id="(@19 Namespace=System.Collections.Generic Type=(Name=IEnumerable GenericParameterCount=1))" />
+    <Alias n="32" Id="(Namespace=System)" />
+    <Alias n="33" Id="(Namespace=System.Collections)" />
+    <Alias n="34" Id="(Namespace=System.Collections.Generic)" />
+    <Alias n="35" Id="(@8 @21 Type=IPersonManager Member=GetAllAdults)" />
+    <Alias n="36" Id="(Namespace=DM)" />
+    <Alias n="37" Id="(Namespace=DM.MultiLayer)" />
+    <Alias n="38" Id="(Namespace=DM.MultiLayer.Data)" />
+    <Alias n="39" Id="(Namespace=DM.MultiLayer.Data.Repositories)" />
+  </IdentifierAliases>
+  <Paths>
+    <Path Id="0f85de3b-7a33-4b47-9c01-02c6cd4046a2.OutputPath" Value="C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\PersonManagement\bin\Debug\PersonManagement.dll" />
+    <Path Id="2c261676-c575-4293-9c3a-1b4c85bc88b3.OutputPath" Value="C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Repositories\bin\Debug\Repositories.dll" />
+    <Path Id="5a56f1d6-3a9e-4916-a6a5-3d9dedd93bad.OutputPath" Value="C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Client\bin\Debug\Client.exe" />
+    <Path Id="6d1944ce-a8b1-4540-b35a-14b416d9ae3d.OutputPath" Value="C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Logging.Contracts\bin\Debug\Logging.Contracts.dll" />
+    <Path Id="8f284714-8928-41fc-807a-fefff12b9171.OutputPath" Value="C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\DataClasses\bin\Debug\DataClasses.dll" />
+    <Path Id="ab2709b1-0b4f-47ae-9fb4-10f9e13d1fea.OutputPath" Value="C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Logging\bin\Debug\Logging.dll" />
+    <Path Id="d64107b9-fd99-48a2-8821-812658a8ec6b.OutputPath" Value="C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\Repositories.Contracts\bin\Debug\Repositories.Contracts.dll" />
+    <Path Id="d942d146-ca0a-4b29-975b-c8e0d8590130.OutputPath" Value="C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\PersonMangement.Contacts\bin\Debug\PersonMangement.Contacts.dll" />
+    <Path Id="VsSolution" Value="C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer" />
+    <Path Id="VsSolutionUri" Value="file:///C:/Users/David/Documents/Visual Studio 2013/Projects/BM_MUC_2014/BM_MultiLayer" />
+  </Paths>
+</DirectedGraph>

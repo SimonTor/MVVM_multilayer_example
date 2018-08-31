@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1)" Category="File" FilePath="$(Personal)\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\MutiLayer.layerdiagram" Label="MutiLayer.layerdiagram" />
+    <Node Id="a5c9da54-b81e-41a0-bc44-d46c71fbb8ef" Category="Dsl.LayerModel" Dsl.DiagramPath="$(Personal)\Visual Studio 2013\Projects\BM_MUC_2014\BM_MultiLayer\ModelingProject1\MutiLayer.layerdiagram" Dsl.QualifiedName="" Label="MutiLayer" />
+    <Node Id="dcbe6388-7f83-40f2-ab8d-ca0df9061f79" Category="Dsl.Layer" Dsl.ForbiddenNamespaceDependencies="" Dsl.ForbiddenNamespace="" Dsl.RequiredNamespace="" Dsl.QualifiedName="UI" Label="UI" />
+    <Node Id="432ba63c-86fa-42dd-accf-93aa69526c1c" Category="Dsl.Layer" Dsl.ForbiddenNamespaceDependencies="" Dsl.ForbiddenNamespace="" Dsl.RequiredNamespace="" Dsl.QualifiedName="Data" Label="Data" />
+    <Node Id="68fb8d16-94c7-4c44-a5f0-41e61068f143" Category="Dsl.Layer" Dsl.ForbiddenNamespaceDependencies="" Dsl.ForbiddenNamespace="" Dsl.RequiredNamespace="" Dsl.QualifiedName="Logic" Label="Logic" />
+    <Node Id="099eb69a-f817-4d97-adaa-bdbd49775e8b" Category="Dsl.Layer" Dsl.ForbiddenNamespaceDependencies="" Dsl.ForbiddenNamespace="" Dsl.RequiredNamespace="" Dsl.QualifiedName="CrossCutting" Label="CrossCutting" />
+    <Node Id="91f799a2-d0a0-4847-86d0-91cf7cd542d7" Category="Dsl.Layer" Dsl.ForbiddenNamespaceDependencies="" Dsl.ForbiddenNamespace="" Dsl.RequiredNamespace="" Dsl.QualifiedName="Dependency&#xD;&#xA;Injection" Label="Dependency&#xD;&#xA;Injection" />
+    <Node Id="bb67c4cc-bfe1-49d7-858f-a40cb46fd0df" Category="Dsl.Reference" Dsl.SupportsValidation="True" Dsl.QualifiedName="UI.UI" Label="UI" />
+    <Node Id="(@2)" />
+    <Node Id="8f6bc911-b3ca-453a-95a4-793862efb3c1" Category="Dsl.Reference" Dsl.SupportsValidation="True" Dsl.QualifiedName="Data.Data" Label="Data" />
+    <Node Id="(@3)" />
+    <Node Id="94a5b496-4ba5-4131-a280-9a56d38dbf92" Category="Dsl.Reference" Dsl.SupportsValidation="True" Dsl.QualifiedName="Logic.Logic" Label="Logic" />
+    <Node Id="(@4)" />
+    <Node Id="a728cf85-fb67-45a5-a719-5968f1df0ee1" Category="Dsl.Reference" Dsl.SupportsValidation="True" Dsl.QualifiedName="CrossCutting.CrossCutting" Label="CrossCutting" />
+    <Node Id="(@5)" />
+    <Node Id="(@6)" />
+  </Nodes>
+  <Links>
+    <Link Source="bb67c4cc-bfe1-49d7-858f-a40cb46fd0df" Target="(@2)" Category="Represents" />
+    <Link Source="8f6bc911-b3ca-453a-95a4-793862efb3c1" Target="(@3)" Category="Represents" />
+    <Link Source="94a5b496-4ba5-4131-a280-9a56d38dbf92" Target="(@4)" Category="Represents" />
+    <Link Source="a728cf85-fb67-45a5-a719-5968f1df0ee1" Target="(@5)" Category="Represents" />
+    <Link Source="a728cf85-fb67-45a5-a719-5968f1df0ee1" Target="(@6)" Category="Represents" />
+    <Link Source="a5c9da54-b81e-41a0-bc44-d46c71fbb8ef" Target="dcbe6388-7f83-40f2-ab8d-ca0df9061f79" Category="Dsl.LayerModelHasLayers" />
+    <Link Source="a5c9da54-b81e-41a0-bc44-d46c71fbb8ef" Target="432ba63c-86fa-42dd-accf-93aa69526c1c" Category="Dsl.LayerModelHasLayers" />
+    <Link Source="a5c9da54-b81e-41a0-bc44-d46c71fbb8ef" Target="68fb8d16-94c7-4c44-a5f0-41e61068f143" Category="Dsl.LayerModelHasLayers" />
+    <Link Source="a5c9da54-b81e-41a0-bc44-d46c71fbb8ef" Target="099eb69a-f817-4d97-adaa-bdbd49775e8b" Category="Dsl.LayerModelHasLayers" />
+    <Link Source="a5c9da54-b81e-41a0-bc44-d46c71fbb8ef" Target="91f799a2-d0a0-4847-86d0-91cf7cd542d7" Category="Dsl.LayerModelHasLayers" />
+    <Link Source="dcbe6388-7f83-40f2-ab8d-ca0df9061f79" Target="bb67c4cc-bfe1-49d7-858f-a40cb46fd0df" Category="Dsl.LayerHasReferences" />
+    <Link Source="432ba63c-86fa-42dd-accf-93aa69526c1c" Target="8f6bc911-b3ca-453a-95a4-793862efb3c1" Category="Dsl.LayerHasReferences" />
+    <Link Source="68fb8d16-94c7-4c44-a5f0-41e61068f143" Target="94a5b496-4ba5-4131-a280-9a56d38dbf92" Category="Dsl.LayerHasReferences" />
+    <Link Source="099eb69a-f817-4d97-adaa-bdbd49775e8b" Target="a728cf85-fb67-45a5-a719-5968f1df0ee1" Category="Dsl.LayerHasReferences" />
+    <Link Source="dcbe6388-7f83-40f2-ab8d-ca0df9061f79" Target="099eb69a-f817-4d97-adaa-bdbd49775e8b" Category="Dsl.DependencyFromLayerToLayer" Dsl.Direction="Forward" />
+    <Link Source="dcbe6388-7f83-40f2-ab8d-ca0df9061f79" Target="91f799a2-d0a0-4847-86d0-91cf7cd542d7" Category="Dsl.DependencyFromLayerToLayer" Dsl.Direction="Forward" />
+    <Link Source="432ba63c-86fa-42dd-accf-93aa69526c1c" Target="099eb69a-f817-4d97-adaa-bdbd49775e8b" Category="Dsl.DependencyFromLayerToLayer" Dsl.Direction="Forward" />
+    <Link Source="68fb8d16-94c7-4c44-a5f0-41e61068f143" Target="099eb69a-f817-4d97-adaa-bdbd49775e8b" Category="Dsl.DependencyFromLayerToLayer" Dsl.Direction="Forward" />
+    <Link Source="91f799a2-d0a0-4847-86d0-91cf7cd542d7" Target="68fb8d16-94c7-4c44-a5f0-41e61068f143" Category="Dsl.DependencyFromLayerToLayer" Dsl.Direction="Forward" />
+    <Link Source="91f799a2-d0a0-4847-86d0-91cf7cd542d7" Target="432ba63c-86fa-42dd-accf-93aa69526c1c" Category="Dsl.DependencyFromLayerToLayer" Dsl.Direction="Forward" />
+    <Link Source="91f799a2-d0a0-4847-86d0-91cf7cd542d7" Target="099eb69a-f817-4d97-adaa-bdbd49775e8b" Category="Dsl.DependencyFromLayerToLayer" Dsl.Direction="Forward" />
+  </Links>
+  <Categories>
+    <Category Id="Dsl.DependencyFromLayerToLayer" Label="Dependency From Layer To Layer" CanLinkedNodesBeDataDriven="True" CanBeDataDriven="True" IncomingActionLabel="Dependency from Layers" OutgoingActionLabel="Dependency to Layers" />
+    <Category Id="Dsl.Layer" Label="Layer" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Layer" />
+    <Category Id="Dsl.LayerHasReferences" Label="Layer Has References" IsContainment="True" CanLinkedNodesBeDataDriven="True" CanBeDataDriven="True" IncomingActionLabel="Layer" OutgoingActionLabel="References" />
+    <Category Id="Dsl.LayerModel" Label="Layer Model" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Layer Model" />
+    <Category Id="Dsl.LayerModelHasLayers" Label="Layer Model Has Layers" IsContainment="True" CanLinkedNodesBeDataDriven="True" CanBeDataDriven="True" IncomingActionLabel="Layer Model" OutgoingActionLabel="Layers" />
+    <Category Id="Dsl.Reference" Label="Reference" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Reference" />
+    <Category Id="File" Label="File" CanBeDataDriven="True" NavigationActionLabel="Files" DefaultAction="Microsoft.Contains" />
+    <Category Id="Represents" Label="Represents" OutgoingActionLabel="Represents" IncomingActionLabel="Represented By" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IsContainment="True" />
+  </Categories>
+  <Properties>
+    <Property Id="FilePath" Label="File Path" Description="File Path" DataType="System.String" />
+    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
+    <Property Id="Dsl.DiagramPath" DataType="System.String" />
+    <Property Id="Dsl.QualifiedName" DataType="System.String" />
+    <Property Id="Dsl.ForbiddenNamespaceDependencies" DataType="System.String" />
+    <Property Id="Dsl.ForbiddenNamespace" DataType="System.String" />
+    <Property Id="Dsl.RequiredNamespace" DataType="System.String" />
+    <Property Id="Dsl.SupportsValidation" DataType="System.Boolean" />
+    <Property Id="Dsl.Direction" DataType="System.String" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Assembly" ValueType="Uri" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(PersonalUri)/Visual Studio 2013/Projects/BM_MUC_2014/BM_MultiLayer/ModelingProject1/MutiLayer.layerdiagram" />
+    <Alias n="2" Uri="Assembly=Client" />
+    <Alias n="3" Uri="Assembly=Repositories" />
+    <Alias n="4" Uri="Assembly=PersonManagement" />
+    <Alias n="5" Uri="Assembly=DataClasses" />
+    <Alias n="6" Uri="Assembly=LayerContracts" />
+  </IdentifierAliases>
+  <Paths>
+    <Path Id="Personal" Value="C:\Users\David\Documents" />
+    <Path Id="PersonalUri" Value="file:///C:/Users/David/Documents" />
+  </Paths>
+</DirectedGraph>
